@@ -1,9 +1,9 @@
 {
-  "name": "UBUNTU-FREE-VPS-HEROKU",
-  "description": "UBUNTU-VPS-HEROKU",
-  "repository": "https://github.com/xdapirates/Heroku-VPS-RDP",
+  "name": "lord-FREE--HEROKU",
+  "description": "fU-HEROKU",
+  "repository": "https://github.com/piyush298/sapda",
   "logo": "https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg",
-  "keywords": ["VPS", "RDP", "HEROKU", "NOVNC", "FIREFOX", "FREE RDP"],
+  "keywords": ["VPS", "HEROKU", "NOVNC", "FIREFOX", "FREE RDP"],
   "stack": "container",
   "env": {
     "VNC_PASS": {
